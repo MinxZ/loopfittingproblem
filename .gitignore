@@ -6,8 +6,6 @@
 *.zip
 
 # Results
-*.csv
-*.png
 
 # Python
 __pycache__/
